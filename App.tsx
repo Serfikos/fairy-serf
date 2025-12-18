@@ -22,7 +22,7 @@ import {
 // ВАЖНО: Замените эти значения на свои из панели управления Supabase (Project Settings -> API)
 // IMPORTANT: Replace these with your actual Supabase project credentials
 const SUPABASE_URL = 'https://csphhqzxxtwvvvtsuxxyr.supabase.co';
-const SUPABASE_ANON_KEY = 'sb_publishable_N-cl6PnOzzIZPGBPmrzRNg_7aNqWspI';
+const SUPABASE_ANON_KEY = 'sb_secret_zT8_HD21pXtKvw4BJkPgDQ_LUUzOixx';
 
 // Инициализация клиента Supabase
 // Using the client library prevents SQL injection by sanitizing inputs automatically.
